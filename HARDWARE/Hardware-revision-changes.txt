@@ -1,0 +1,5 @@
+Hardware revision changes 
+
+Revision A1
+
+Changed R17 value to 9.1k
